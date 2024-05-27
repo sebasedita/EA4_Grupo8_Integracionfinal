@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="(localdb)_jardineria.AdventureWorks2022"
+  DTS:DTSID="{31DA061B-8D0B-4110-992D-BBBCF73C7C78}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=(localdb)\jardineria;Initial Catalog=AdventureWorks2022;AttachDbFilename=&quot;F:\SebastianB\Descargas\AdventureWorks2022 (1).bak&quot;;Integrated Security=True;Encrypt=False;Application Name=SSIS-ETL_IU_DataStagingJardineria-{31DA061B-8D0B-4110-992D-BBBCF73C7C78}(localdb)\jardineria.AdventureWorks2022;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
